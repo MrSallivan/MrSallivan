@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div>
 <a href="https://vk.com/your_profile">
   <img align="left" fill="white" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -30,9 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/your_profile">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+</div>
 <br />
-
 Привет, меня зовут Алексей, я студент school21 от Сбера. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
-
 <br />
