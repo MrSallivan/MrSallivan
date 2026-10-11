@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </div>
-<br />
+<br />  
+
 <p>Привет, меня зовут Алексей, я студент school21 от Сбера. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.</p>
 <br />
